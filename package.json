@@ -1,0 +1,24 @@
+{
+  "name": "tslint-config-vtex",
+  "version": "1.0.0",
+  "description": "VTEX's tslint config",
+  "main": "tslint.json",
+  "peerDependencies": {
+    "tslint-eslint-rules": "^3.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtex/tslint-config-vtex.git"
+  },
+  "keywords": [
+    "tslint",
+    "config",
+    "vtex"
+  ],
+  "author": "Thor Amorim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vtex/tslint-config-vtex/issues"
+  },
+  "homepage": "https://github.com/vtex/tslint-config-vtex#readme"
+}
