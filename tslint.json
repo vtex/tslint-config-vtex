@@ -1,7 +1,7 @@
 {
   "rulesDirectory": ["../tslint-eslint-rules/dist/rules"],
   "rules": {
-    "arrow-spacing": [true, { "before": true, "after": true }],
+    "ter-arrow-spacing": [true, { "before": true, "after": true }],
     "block-spacing": [true, "always"],
     "brace-style": [true, "1tbs", { "allowSingleLine": true }],
     "variable-name": true,
@@ -13,7 +13,7 @@
     "ter-indent": [true, 2, { "SwitchCase": 1 }],
     "new-parens": true,
     "no-arg": true,
-    "no-cond-assign": true,
+    "no-conditional-assignment": true,
     "no-control-regex": true,
     "no-duplicate-case": true,
     "no-empty-character-class": true,
@@ -24,7 +24,7 @@
     "no-inner-declarations": [true, "functions"],
     "no-invalid-regexp": true,
     "no-irregular-whitespace": true,
-    "labels-position": true,
+    "label-position": true,
     "indent": [true, "spaces"],
     "no-multi-spaces": true,
     "no-consecutive-blank-lines": [true, 1],
