@@ -1,6 +1,7 @@
 {
   "rulesDirectory": ["../tslint-eslint-rules/dist/rules"],
   "rules": {
+    "no-use-before-declare": true,
     "class-name": true,
     "typedef-whitespace": [
       true,
