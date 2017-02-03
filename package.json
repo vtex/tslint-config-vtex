@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-vtex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "VTEX's tslint config",
   "main": "tslint.json",
   "peerDependencies": {
