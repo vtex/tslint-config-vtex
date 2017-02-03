@@ -4,7 +4,7 @@
     "ter-arrow-spacing": [true, { "before": true, "after": true }],
     "block-spacing": [true, "always"],
     "brace-style": [true, "1tbs", { "allowSingleLine": true }],
-    "variable-name": true,
+    "variable-name": [true, "check-format", "allow-leading-underscore", "allow-trailing-underscore"],
     "trailing-comma": [true, {"multiline": "always", "singleline": "never"}],
     "curly": true,
     "eofline": true,
