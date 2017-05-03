@@ -85,6 +85,7 @@
     "semicolon": [true, "never"],
     "comment-format": [true, "check-space"],
     "use-isnan": true,
-    "valid-typeof": true
+    "valid-typeof": true,
+    "no-unused-variable": [true]
   }
 }
