@@ -34,7 +34,6 @@
       "check-type",
       "check-decl",
       "check-branch",
-      "check-module",
       "check-operator",
       "check-preblock",
       "check-separator"
