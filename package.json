@@ -3,7 +3,8 @@
   "version": "1.3.2",
   "description": "VTEX's tslint config",
   "main": "tslint.json",
-  "peerDependencies": {
+  "dependencies": {
+    "tslint-config-prettier": "^1.6.0",
     "tslint-eslint-rules": "^4.1.1"
   },
   "repository": {
@@ -15,7 +16,6 @@
     "config",
     "vtex"
   ],
-  "author": "Thor Amorim",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vtex/tslint-config-vtex/issues"
